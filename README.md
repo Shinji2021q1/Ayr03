@@ -1,4 +1,4 @@
-# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 🔥**
+# **🔥 Arthur Leywin - 𝗕𝗼𝘁 🔥**
 ### `ACTIVAR EN HEROKU (FASE EXPERIMENTAL)`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/ShadowBotV3)
 ```bash
@@ -34,8 +34,8 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/BrunoSobrino/ShadowBotV3
-> cd ShadowBotV3
+> git clone https://github.com/Shinji2021q1/Ayr03
+> cd Ayr03
 > npm install
 > npm install -g npm@8.5.4
 > npm update
@@ -73,5 +73,5 @@ de WhatsApp, por lo que sugiero usar este WhatsApp:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
 ```bash
-`The Shadow Brokers - Bot ___ By Bruno Sobrino` 
+`Arthur Leywin - Bot ___ By KazumaAMVTM` 
 ```
